@@ -142,6 +142,7 @@ One day, Github may provide an official way for a runner to run a single job, th
 ## References:
 
 * `config.sh` implementation: https://github.com/actions/runner/blob/master/src/Misc/layoutroot/config.sh
+* much help: https://github.com/tcardonne/docker-github-runner
 
 ## Ideas:
 
